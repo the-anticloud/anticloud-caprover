@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:975f2834-66cf-5704-9613-a0c5bc662951",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T17:04:10Z",
+    "component": {
+      "type": "application",
+      "name": "CAPROVER",
+      "version": "a45cce6b7fc0",
+      "bom-ref": "pkg:generic/anticloud/CAPROVER@a45cce6b7fc0",
+      "purl": "pkg:generic/anticloud/CAPROVER@a45cce6b7fc0",
+      "licenses": [
+        {
+          "license": {
+            "id": "UNKNOWN"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "a45cce6b7fc0d30ca431a8d8ce83bef72a5a9913"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/caprover/caprover.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
